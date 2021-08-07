@@ -1,2 +1,3 @@
-# Clock
-Made in Visual Studio Code
+# Live Clock
+### IST
+###### Indian standard time
